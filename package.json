@@ -1,0 +1,22 @@
+{
+  "name": "playwrightbymohammadhamza",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MohammadHamza987/PlaywrightByMohammadHamza.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MohammadHamza987/PlaywrightByMohammadHamza/issues"
+  },
+  "homepage": "https://github.com/MohammadHamza987/PlaywrightByMohammadHamza#readme",
+  "devDependencies": {
+    "@playwright/test": "^1.51.1",
+    "@types/node": "^22.13.11"
+  }
+}
